@@ -22,6 +22,11 @@ Who survived ? Why ? Insights by sex, class and age.
 - Overall survival rate : 38.4%
 - Women survived at a much higher rate than men
 - 1st class : 63% survival · 2nd class : 47% · 3rd class : 24%
+- Taux de survie global : 38.4%
+- Femmes : 74% de survie · Hommes : 19%
+- 1ère classe : 63% · 2ème : 47% · 3ème : 24%
+- Enfants prioritaires sur les adultes
+- Pire profil : homme en 3ème classe (~13%)
 
 ---
 
