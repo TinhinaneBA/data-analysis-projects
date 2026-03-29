@@ -42,9 +42,24 @@ Nettoyage complet d'un dataset "sale" avec Pandas.
 
 ---
 
-### 📊 Seaborn Visualizations *(coming soon)*
-Visualisations avancées avec Seaborn.
+### 📊 Seaborn Visualizations
+Visualisations avancées avec Seaborn sur le dataset Titanic.
 
+| Notebook | Description | Status |
+|---|---|---|
+| `04_seaborn_viz.ipynb` | Heatmap, boxplot, violinplot, pairplot | ✅ Done |
+
+**Graphiques produits :**
+- `heatmap` — matrice de corrélation entre variables numériques
+- `boxplot` — distribution de l'âge par classe
+- `violinplot` — distribution âge/classe selon la survie
+- `countplot` — survivants vs décédés par classe
+- `pairplot` — relations entre toutes les variables
+
+**Key insights :**
+- Fare et Pclass sont les variables les plus corrélées à la survie
+- Les jeunes de 3ème classe (~22 ans) ont le taux de décès le plus élevé
+- L'âge seul influence peu la survie — c'est la combinaison classe + sexe qui compte
 ---
 
 ## Structure
